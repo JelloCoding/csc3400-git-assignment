@@ -1,7 +1,10 @@
 import math
 
 def add(a, b):
-    """Add two numbers, (main version)"""
+    """
+    Add two numbers.
+    Combined version: includes both main and hotfix updates.
+    """
     return a + b
 
 def subtract(a, b):
