@@ -1,6 +1,7 @@
 import math
 
 def add(a, b):
+     """Add two numbers, whole numbers"""
     return a + b
 
 def subtract(a, b):
