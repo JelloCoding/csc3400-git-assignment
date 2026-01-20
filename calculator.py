@@ -1,7 +1,7 @@
 import math
 
 def add(a, b):
-    """Add two numbers"""
+    """Add two numbers, (main version)"""
     return a + b
 
 def subtract(a, b):
